@@ -6,7 +6,6 @@ This repository holds my spatial history project for the Interconnected Places L
 
 This project maps the North End between 1880-1920, a period of rapid immigration and cultural development. 
 
-Example: This project maps Bombay in the late nineteenth century and the network of places its cotton-textile industry connected it to — across Maharashtra and around the Indian Ocean world.
 
 ## The files
 
