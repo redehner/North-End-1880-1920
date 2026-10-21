@@ -27,4 +27,4 @@ Every place has three pieces of information, spelled exactly this way:
 
 ## My live map
 
-(http://127.0.0.1:5500/index%20(8).html)
+](http://127.0.0.1:5500/index%20.html)
