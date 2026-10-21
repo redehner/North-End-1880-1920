@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"Name":"1860s Migration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[8.931025,44.407588],[-71.054571,42.363131]]}},
+{"type":"Feature","properties":{"Name":"1880-1920 Campania immigration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[14.095833,40.851217],[-71.053916,42.364312]]}},
+{"type":"Feature","properties":{"Name":"1880-1920 Avellino Immigration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[-71.053911,42.362617],[14.790832,40.914533]]}},
+{"type":"Feature","properties":{"Name":"1880-1920 Sicilian Immigration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[14.066887,37.574289],[-71.051078,42.365243]]}},
+{"type":"Feature","properties":{"Name":null,"Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[13.806033,42.239933],[-71.054278,42.364957]]}},
+{"type":"Feature","properties":{"Name":null,"Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[14.486458,41.628571],[-71.056542,42.36709]]}},
+{"type":"Feature","properties":{"Name":null,"Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[10.278702,44.807815],[-71.054506,42.363146]]}},
+{"type":"Feature","properties":{"Name":"Italian Immigration","Deep Dive":"The location of origin for many immigrants to the North End","Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[12.33378,42.575856],[-71.048833,42.364602]]}},
+{"type":"Feature","properties":{"Name":"Russian Jewish Immigration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[27.962524,51.582845],[-71.056125,42.364475]]}},
+{"type":"Feature","properties":{"Name":"Polish Jewish Immigration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[20.618191,51.902882],[-71.056171,42.364461]]}},
+{"type":"Feature","properties":{"Name":"Lithuanian Jewish Immigration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[-71.056226,42.364499],[23.82625,55.474697]]}},
+{"type":"Feature","properties":{"Name":null,"Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[22.919542,49.691417],[-71.056145,42.364553]]}},
+{"type":"Feature","properties":{"Name":"Shalom Street","Deep Dive":"Nickname","Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[-71.056308,42.362885],[-71.055551,42.364123],[-71.055436,42.365215]]}},
+{"type":"Feature","properties":{"Name":"Romanian Jewish Immigration","Deep Dive":null,"Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[-71.056194,42.364537],[24.792231,45.755868]]}},
+{"type":"Feature","properties":{"Name":"Move from North End to West End","Deep Dive":"The West End: Jewish families moved west across the Shawmut Peninsula into Boston's West End, where they established a massive community before eventually fanning out to the streetcar suburbs of Dorchester, Roxbury, and Mattapan.","Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[-71.065429,42.364468],[-71.056265,42.364533]]}},
+{"type":"Feature","properties":{"Name":"East Boston Migration","Deep Dive":"Italian populations increasingly crossed the harbor into East Boston. This geographical extension created a unified voting bloc that eventually allowed Italian-American politicians, such as state senator Scollay Langone Jr., to challenge Irish political dominance in a district that tied the North, West, and South Ends together","Description":null,"fill-opacity":null,"Time":null},"geometry":{"type":"LineString","coordinates":[[-71.054068,42.364784],[-71.026255,42.3719]]}}
+]
+}
