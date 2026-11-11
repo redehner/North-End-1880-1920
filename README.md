@@ -1,6 +1,6 @@
 # Interconnected Places — Boston's North End 1880-1920
 
-This repository holds my spatial history project for the Interconnected Places Lab (HIST 1907). It maps one place and the places it was connected to.
+This repository holds my spatial history project for the Interconnected Places Lab (HIST 1907). It demonstrates how the North End formed into the culturally flourishing neighborhood it is today
 
 ## About this project
 
@@ -24,6 +24,7 @@ Every place has three pieces of information, spelled exactly this way:
 - **Name** — what the place is called
 - **Date** — when it existed
 - **Description** — one or two sentences of history
+- **type** 
 
 ## My live map
 
